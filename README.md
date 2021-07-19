@@ -1,1 +1,1 @@
-# integrated-payment-gateway
+# Integrated-payment-gateway
